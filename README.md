@@ -33,7 +33,7 @@ I'm a Computer Science student passionate about programming, software developmen
 - MongoDB
 
 **Other Tools**
-- Tableu
+- Tableau
 - PowerBI
 - Git
 - GitHub
